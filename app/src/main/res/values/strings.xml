@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Listado Productos</string>
+    <string name="tvID">ID</string>
+    <string name="nombre_del_producto">Nombre del Producto</string>
+    <string name="precio">Precio</string>
+    <string name="id">ID</string>
+    <string name="_0">0</string>
+    <string name="editar">Editar</string>
+    <string name="eliminar">Eliminar</string>
+</resources>
